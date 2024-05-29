@@ -4,12 +4,7 @@
 Authors: Victor Cheng, Le Luo, Cindy Xu, Rain Hou.
 
 
-For the Final Project -- Data Wrangling, add the following to this code repository:
-
-* An R script file containing the code you used to create your unified dataset
-* Your unified and cleaned CSV dataset file
-* Data Nutrition Label (pdf)
-
+## Shiny App Link:
 
 **https://bowencheng315.shinyapps.io/Final_Project_Shiny/**
 
